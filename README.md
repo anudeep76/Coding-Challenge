@@ -39,6 +39,6 @@ Visual Studio 2022
                           
  2.In the given example removePlayerFromDepthChart(“WR”, MikeEvans) Output: #13 – MikeEvans
  
-     Here it shoud be "LWR" in the position instead of the "WR". Then only we get the output as the 13- MikeEvans. 
+     Here it should be "LWR" in the position instead of the "WR". Then only we get the output as the 13- MikeEvans. 
                                 
 
