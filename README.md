@@ -35,10 +35,10 @@ Visual Studio 2022
 # NOTE: 
  1.In the given example  getBackups(“QB”, JaelonDarden)  Output: #10 – Scott Miller
  
-      Here it should be getBackups(“LWR”, JaelonDarden) then only we get output as #10- Scott Miller. 
+     Here it should be getBackups(“LWR”, JaelonDarden) then only we get output as #10- Scott Miller. 
                           
  2.In the given example removePlayerFromDepthChart(“WR”, MikeEvans) Output: #13 – MikeEvans
  
-      Here it shoud be "LWR" in the position instead of the "WR". Then only we get the output as the 13- MikeEvans. 
+     Here it shoud be "LWR" in the position instead of the "WR". Then only we get the output as the 13- MikeEvans. 
                                 
 
