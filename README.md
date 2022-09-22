@@ -1,4 +1,4 @@
-# FanDuel Coding-Challenges
+#Coding-Challenge
 
 # Assumption
 This is a coding challenge to prepare the Depth Chart of the NFL team Tampa Bay Buccaneers. 
